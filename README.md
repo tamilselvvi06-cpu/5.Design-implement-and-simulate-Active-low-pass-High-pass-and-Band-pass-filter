@@ -81,6 +81,7 @@ Let Ri = Rf = 10 KΩ
   
 <img width="957" height="624" alt="image" src="https://github.com/user-attachments/assets/674abd6b-669f-4463-820f-6b0fc9c6bfb2" />
 
+  <img width="3072" height="4080" alt="1000123224" src="https://github.com/user-attachments/assets/ccb547a7-b58b-4df9-be99-4ea2984f0eda" />
 
   **TABULATION:**
  
@@ -97,6 +98,7 @@ Let Ri = Rf = 10 KΩ
 
 <img width="1215" height="585" alt="image" src="https://github.com/user-attachments/assets/87ee4d2e-8380-4781-8166-dff6258a1b02" />
 
+<img width="4080" height="3072" alt="1000123232" src="https://github.com/user-attachments/assets/d4d9fcfb-96a0-4666-b4db-40af76b4e740" />
 
   **TABULATION:**
   
@@ -114,7 +116,7 @@ Let Ri = Rf = 10 KΩ
  
  <img width="903" height="543" alt="image" src="https://github.com/user-attachments/assets/04a5c286-8e75-460f-bad0-a06f92e23338" />
 
-
+<img width="4080" height="3072" alt="1000123229" src="https://github.com/user-attachments/assets/f78d9a8a-e424-4430-8e99-7d2bb99e4748" />
 
   **TABULATION:**
   
